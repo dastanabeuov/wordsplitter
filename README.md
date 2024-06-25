@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий(Steb-by-steb...):
 
    ```bash
-   git clone https://github.com/yourusername/wordsplitter.git
+   git clone https://github.com/dastanabeuov/wordsplitter.git
    cd wordsplitter
    bundle install
    ruby main.rb
